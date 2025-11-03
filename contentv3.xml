@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -233,7 +233,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="captura_de_pantalla_2025_10_27_221755.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\captura_de_pantalla_2025_10_27_221755.png"></string>
+                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\captura_de_pantalla_2025_10_27_221755.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="699947b3768d2e81c224052dc51483fd"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -285,7 +285,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="logo.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\logo.png"></string>
+                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\logo.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="fb1f44af538f3a36fe30bfe6fb9e77ea"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -446,7 +446,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="descarga.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\descarga.jpg"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\descarga.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="478b2e9cfbd779345997a35b6498dd88"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -498,7 +498,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="procesador.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\procesador.png"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\procesador.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="61f5c71873440c90ba7f34498ff56649"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -550,7 +550,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="siguiente.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\siguiente.jpg"></string>
+                           <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\siguiente.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d7f48cb442d462b4746bb397f807354c"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -862,7 +862,7 @@
                              <string role="key" value="_storageName"></string>
                              <string value="cumplimiento_de_la_lga_1080x675.jpg"></string>
                              <string role="key" value="_userName"></string>
-                             <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\cumplimiento_de_la_lga_1080x675.jpg"></string>
+                             <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\cumplimiento_de_la_lga_1080x675.jpg"></string>
                              <string role="key" value="checksum"></string>
                              <string value="bed7b24fbb079c214c2862d37f14588e"></string>
                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -882,7 +882,7 @@
                              <string role="key" value="_storageName"></string>
                              <string value="empezar.png"></string>
                              <string role="key" value="_userName"></string>
-                             <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\empezar.png"></string>
+                             <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\empezar.png"></string>
                              <string role="key" value="checksum"></string>
                              <string value="581fc0b4ce823ddb31c8927473e29ce3"></string>
                              <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1027,7 +1027,7 @@
                       <string role="key" value="_storageName"></string>
                       <string value="151232_high_school_virtual_voce_sabe_o_que_e.jpg"></string>
                       <string role="key" value="_userName"></string>
-                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\151232_high_school_virtual_voce_sabe_o_que_e.jpg"></string>
+                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\151232_high_school_virtual_voce_sabe_o_que_e.jpg"></string>
                       <string role="key" value="checksum"></string>
                       <string value="a6c393e6c5751a31427560856b186210"></string>
                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1047,7 +1047,7 @@
                       <string role="key" value="_storageName"></string>
                       <string value="2_1.jpg"></string>
                       <string role="key" value="_userName"></string>
-                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\2_1.jpg"></string>
+                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\2_1.jpg"></string>
                       <string role="key" value="checksum"></string>
                       <string value="28490babc8e6d267d684d4d64c486b6e"></string>
                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1067,7 +1067,7 @@
                       <string role="key" value="_storageName"></string>
                       <string value="41445076_power_button.jpg"></string>
                       <string role="key" value="_userName"></string>
-                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\41445076_power_button.jpg"></string>
+                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\41445076_power_button.jpg"></string>
                       <string role="key" value="checksum"></string>
                       <string value="4b84fe2904265efa2e732d4461e24b92"></string>
                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1087,7 +1087,7 @@
                       <string role="key" value="_storageName"></string>
                       <string value="hq720.jpg"></string>
                       <string role="key" value="_userName"></string>
-                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\hq720.jpg"></string>
+                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\hq720.jpg"></string>
                       <string role="key" value="checksum"></string>
                       <string value="82343706526d5d398eb55cd6051132c4"></string>
                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1107,7 +1107,7 @@
                       <string role="key" value="_storageName"></string>
                       <string value="taller_de_accesibilidad.png"></string>
                       <string role="key" value="_userName"></string>
-                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\taller_de_accesibilidad.png"></string>
+                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\taller_de_accesibilidad.png"></string>
                       <string role="key" value="checksum"></string>
                       <string value="86ab59aaf2a0f49c8fcf2786177ce43c"></string>
                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1127,7 +1127,7 @@
                       <string role="key" value="_storageName"></string>
                       <string value="whatsapp_image_2025_11_01_at_22_25_45.jpg"></string>
                       <string role="key" value="_userName"></string>
-                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\whatsapp_image_2025_11_01_at_22_25_45.jpg"></string>
+                      <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\whatsapp_image_2025_11_01_at_22_25_45.jpg"></string>
                       <string role="key" value="checksum"></string>
                       <string value="95388665c2d5db216acbb4aa8e2a6e95"></string>
                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1557,7 +1557,7 @@
                                  <string role="key" value="_storageName"></string>
                                  <string value="actividad_n.jpg"></string>
                                  <string role="key" value="_userName"></string>
-                                 <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\actividad_n.jpg"></string>
+                                 <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\actividad_n.jpg"></string>
                                  <string role="key" value="checksum"></string>
                                  <string value="cb34f1627fbdc3273e2f11a3456bd526"></string>
                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1609,7 +1609,7 @@
                                  <string role="key" value="_storageName"></string>
                                  <string value="atras_.jpg"></string>
                                  <string role="key" value="_userName"></string>
-                                 <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\atras_.jpg"></string>
+                                 <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\atras_.jpg"></string>
                                  <string role="key" value="checksum"></string>
                                  <string value="87dab8c83db1db8ac95c0c65e82b62f8"></string>
                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1661,7 +1661,7 @@
                                  <string role="key" value="_storageName"></string>
                                  <string value="boton_clic_aqui2.png"></string>
                                  <string role="key" value="_userName"></string>
-                                 <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\boton_clic_aqui2.png"></string>
+                                 <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\boton_clic_aqui2.png"></string>
                                  <string role="key" value="checksum"></string>
                                  <string value="bde1c5e0bbb3f7658403d102dab9e38c"></string>
                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1713,7 +1713,7 @@
                                  <string role="key" value="_storageName"></string>
                                  <string value="sigiente_.jpg"></string>
                                  <string role="key" value="_userName"></string>
-                                 <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\sigiente_.jpg"></string>
+                                 <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\sigiente_.jpg"></string>
                                  <string role="key" value="checksum"></string>
                                  <string value="97ac0df373f51bc6255d5a617190964d"></string>
                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2149,7 +2149,7 @@
                                           <string role="key" value="_storageName"></string>
                                           <string value="actividad_n.jpg"></string>
                                           <string role="key" value="_userName"></string>
-                                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\actividad_n.jpg"></string>
+                                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\actividad_n.jpg"></string>
                                           <string role="key" value="checksum"></string>
                                           <string value="cb34f1627fbdc3273e2f11a3456bd526"></string>
                                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2201,7 +2201,7 @@
                                           <string role="key" value="_storageName"></string>
                                           <string value="atras_.jpg"></string>
                                           <string role="key" value="_userName"></string>
-                                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\atras_.jpg"></string>
+                                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\atras_.jpg"></string>
                                           <string role="key" value="checksum"></string>
                                           <string value="87dab8c83db1db8ac95c0c65e82b62f8"></string>
                                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2253,7 +2253,7 @@
                                           <string role="key" value="_storageName"></string>
                                           <string value="boton_clic_aqui2.png"></string>
                                           <string role="key" value="_userName"></string>
-                                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\boton_clic_aqui2.png"></string>
+                                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\boton_clic_aqui2.png"></string>
                                           <string role="key" value="checksum"></string>
                                           <string value="bde1c5e0bbb3f7658403d102dab9e38c"></string>
                                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2305,7 +2305,7 @@
                                           <string role="key" value="_storageName"></string>
                                           <string value="sigiente_.jpg"></string>
                                           <string role="key" value="_userName"></string>
-                                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\sigiente_.jpg"></string>
+                                          <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\sigiente_.jpg"></string>
                                           <string role="key" value="checksum"></string>
                                           <string value="97ac0df373f51bc6255d5a617190964d"></string>
                                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4540,7 +4540,7 @@ for the other options."></unicode>
                                                    <string role="key" value="_storageName"></string>
                                                    <string value="actividad_n.jpg"></string>
                                                    <string role="key" value="_userName"></string>
-                                                   <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\actividad_n.jpg"></string>
+                                                   <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\actividad_n.jpg"></string>
                                                    <string role="key" value="checksum"></string>
                                                    <string value="cb34f1627fbdc3273e2f11a3456bd526"></string>
                                                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4592,7 +4592,7 @@ for the other options."></unicode>
                                                    <string role="key" value="_storageName"></string>
                                                    <string value="atras_.jpg"></string>
                                                    <string role="key" value="_userName"></string>
-                                                   <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\atras_.jpg"></string>
+                                                   <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\atras_.jpg"></string>
                                                    <string role="key" value="checksum"></string>
                                                    <string value="87dab8c83db1db8ac95c0c65e82b62f8"></string>
                                                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4644,7 +4644,7 @@ for the other options."></unicode>
                                                    <string role="key" value="_storageName"></string>
                                                    <string value="boton_clic_aqui2.png"></string>
                                                    <string role="key" value="_userName"></string>
-                                                   <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\boton_clic_aqui2.png"></string>
+                                                   <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\boton_clic_aqui2.png"></string>
                                                    <string role="key" value="checksum"></string>
                                                    <string value="bde1c5e0bbb3f7658403d102dab9e38c"></string>
                                                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4696,7 +4696,7 @@ for the other options."></unicode>
                                                    <string role="key" value="_storageName"></string>
                                                    <string value="sigiente_.jpg"></string>
                                                    <string role="key" value="_userName"></string>
-                                                   <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\sigiente_.jpg"></string>
+                                                   <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\sigiente_.jpg"></string>
                                                    <string role="key" value="checksum"></string>
                                                    <string value="97ac0df373f51bc6255d5a617190964d"></string>
                                                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5124,7 +5124,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                             <string role="key" value="_storageName"></string>
                                                             <string value="actividad_n.jpg"></string>
                                                             <string role="key" value="_userName"></string>
-                                                            <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\actividad_n.jpg"></string>
+                                                            <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\actividad_n.jpg"></string>
                                                             <string role="key" value="checksum"></string>
                                                             <string value="cb34f1627fbdc3273e2f11a3456bd526"></string>
                                                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5176,7 +5176,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                             <string role="key" value="_storageName"></string>
                                                             <string value="atras_.jpg"></string>
                                                             <string role="key" value="_userName"></string>
-                                                            <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\atras_.jpg"></string>
+                                                            <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\atras_.jpg"></string>
                                                             <string role="key" value="checksum"></string>
                                                             <string value="87dab8c83db1db8ac95c0c65e82b62f8"></string>
                                                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5228,7 +5228,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                             <string role="key" value="_storageName"></string>
                                                             <string value="boton_clic_aqui2.png"></string>
                                                             <string role="key" value="_userName"></string>
-                                                            <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\boton_clic_aqui2.png"></string>
+                                                            <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\boton_clic_aqui2.png"></string>
                                                             <string role="key" value="checksum"></string>
                                                             <string value="bde1c5e0bbb3f7658403d102dab9e38c"></string>
                                                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5280,7 +5280,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                                                             <string role="key" value="_storageName"></string>
                                                             <string value="sigiente_.jpg"></string>
                                                             <string role="key" value="_userName"></string>
-                                                            <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\sigiente_.jpg"></string>
+                                                            <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\sigiente_.jpg"></string>
                                                             <string role="key" value="checksum"></string>
                                                             <string value="97ac0df373f51bc6255d5a617190964d"></string>
                                                             <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5385,7 +5385,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Tamano.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\Tamano.png"></string>
+                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\Tamano.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="c80c0f6447c3f5c4eeaae6dbc6ebaa36"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5408,7 +5408,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="TamanoThumbnail.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\TamanoThumbnail.png"></string>
+                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\TamanoThumbnail.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="e2a8c6fe8ecf72f50c3d7b053b053585"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5461,7 +5461,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Insertar tabla.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\Insertar tabla.png"></string>
+                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\Insertar tabla.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="df2ee9786c02d608e225622a3f14c1f3"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5484,7 +5484,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Insertar tablaThumbnail.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\Insertar tablaThumbnail.png"></string>
+                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\Insertar tablaThumbnail.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="4359423648102306f98a6eb727afffe5"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5537,7 +5537,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Citas.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\Citas.png"></string>
+                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\Citas.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="37e59fb3addfbc3079d764bc7dc17fdf"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5560,7 +5560,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="CitasThumbnail.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\CitasThumbnail.png"></string>
+                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\CitasThumbnail.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="eb61006d83a110a5a992f45793214eae"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5613,7 +5613,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="Ortografica.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\Ortografica.png"></string>
+                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\Ortografica.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="65d19fe632f507225a6d4504c1ca4316"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5636,7 +5636,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                   <string role="key" value="_storageName"></string>
                                                                   <string value="OrtograficaThumbnail.png"></string>
                                                                   <string role="key" value="_userName"></string>
-                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\OrtograficaThumbnail.png"></string>
+                                                                  <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\OrtograficaThumbnail.png"></string>
                                                                   <string role="key" value="checksum"></string>
                                                                   <string value="67025b43efe2fafbe516b7a520bcb9a3"></string>
                                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6147,7 +6147,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                      <string role="key" value="_storageName"></string>
                                                                      <string value="actividad_n.jpg"></string>
                                                                      <string role="key" value="_userName"></string>
-                                                                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\actividad_n.jpg"></string>
+                                                                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\actividad_n.jpg"></string>
                                                                      <string role="key" value="checksum"></string>
                                                                      <string value="cb34f1627fbdc3273e2f11a3456bd526"></string>
                                                                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6199,7 +6199,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                      <string role="key" value="_storageName"></string>
                                                                      <string value="atras_.jpg"></string>
                                                                      <string role="key" value="_userName"></string>
-                                                                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\atras_.jpg"></string>
+                                                                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\atras_.jpg"></string>
                                                                      <string role="key" value="checksum"></string>
                                                                      <string value="87dab8c83db1db8ac95c0c65e82b62f8"></string>
                                                                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6251,7 +6251,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                      <string role="key" value="_storageName"></string>
                                                                      <string value="boton_clic_aqui2.png"></string>
                                                                      <string role="key" value="_userName"></string>
-                                                                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\boton_clic_aqui2.png"></string>
+                                                                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\boton_clic_aqui2.png"></string>
                                                                      <string role="key" value="checksum"></string>
                                                                      <string value="bde1c5e0bbb3f7658403d102dab9e38c"></string>
                                                                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6303,7 +6303,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
                                                                      <string role="key" value="_storageName"></string>
                                                                      <string value="volver_boton_714ddea3.png"></string>
                                                                      <string role="key" value="_userName"></string>
-                                                                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmpc4fd5t\\volver_boton_714ddea3.png"></string>
+                                                                     <string value="c:\\users\\user\\appdata\\local\\temp\\tmp6kzjux\\volver_boton_714ddea3.png"></string>
                                                                      <string role="key" value="checksum"></string>
                                                                      <string value="ae379d726df12e076e65ae6664dc69bc"></string>
                                                                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8284,7 +8284,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="10"></reference>
+  <reference key="104"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -9447,7 +9447,7 @@ these in a gallery context rather then individually.&lt;/p&gt;"></unicode>
   <string role="key" value="scowwebsite"></string>
   <bool value="0"></bool>
   <string role="key" value="style"></string>
-  <unicode value="INTEF"></unicode>
+  <unicode value="roa_pcei"></unicode>
   <string role="key" value="sugaractivityname"></string>
   <string value=""></string>
   <string role="key" value="sugarservicename"></string>
